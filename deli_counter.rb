@@ -14,5 +14,5 @@ def line(katz_deli)
 end
 
 def take_a_number(katz_deli, new_name)
-
+  katz_deli.push(new_name)
 end
